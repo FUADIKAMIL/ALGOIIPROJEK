@@ -1,5 +1,0 @@
-id_pengajuan,id_akun,penghasilan,jumlah_tanggungan,kehilangan_pekerjaan,tidak_menerima_bantuan_lain,memiliki_anggota_rentan,lansia_atau_disabilitas_tinggal_sendiri,timestamp_pengajuan,status
-P001,M001,1500000,3,ya,tidak,tidak,tidak,2025-06-10T10:00:00,menunggu
-P002,M002,1000000,4,ya,tidak,ya,ya,2025-06-10T10:10:00,menunggu
-P003,M004,12000000,2,ya,tidak,ya,ya,2025-06-10 21:25:26.070551,
-P004,M004,12000000,100,ya,tidak,ya,ya,2025-06-11 19:49:13.332468,menunggu

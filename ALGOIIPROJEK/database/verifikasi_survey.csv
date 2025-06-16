@@ -1,3 +1,0 @@
-id_verifikasi,id_seleksi,id_pengajuan,id_tim,hasil_verifikasi,catatan,timestamp_verifikasi
-V001,S001,P002,S001,valid,Data sesuai lapangan,2025-06-10T12:30:00
-V002,S002,P001,S001,tidak_valid,NIK salah saat dicek,2025-06-10T12:45:00
